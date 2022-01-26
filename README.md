@@ -18,3 +18,9 @@ pandas - last version
 scrapy - last version
 
 re - last version
+
+# FORMA DE VISUALIZAÇÃO 
+
+Bom, escolhi .json, convertido para csv através do Pandas para visualizar os dados extraídos.
+
+acredito que seja isso, muito obrigado de toda forma pela oportunidade.
